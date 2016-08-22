@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "name": "test-app",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^2.1.0-dev.20160821"
+  },
+  "dependencies": {},
+  "scripts": {
+    "build": "dotnet build && npm install && tsc && rollup wwwroot/app/main.js -o=wwwroot/dist/bundle.js"
+  }
+}
