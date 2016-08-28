@@ -18,9 +18,9 @@ npm install (be patient)<br/>
 npm start
 
 ##Remarks
-This version contains some irrelevant erros while installing and starting, i will fix these errors as soon as possible
+This version contains some jasmin errors that can be ignoredg, i will fix these errors as soon as possible
 
 ## Resources
-Inspired by: [https://medium.com/@jeff.boothe/angular-cli-meets-webpack-7c9b1a1e1e89#.j3hmre6v2](https://medium.com/@jeff.boothe/angular-cli-meets-webpack-7c9b1a1e1e89#.j3hmre6v2)
+Inspired by: [https://medium.com/@jeff.boothe/angulasr-cli-meets-webpack-7c9b1a1e1e89#.j3hmre6v2](https://medium.com/@jeff.boothe/angular-cli-meets-webpack-7c9b1a1e1e89#.j3hmre6v2)
 
 
