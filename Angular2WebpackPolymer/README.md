@@ -2,15 +2,16 @@
 
 At this point, to run the application install the anguler CLI version with webpack.
 
-##If you haven't installed the Angular CLI with webpack already:
-
-npm install -g angular-cli@webpack
-
 ##If you installed the angular cli without webpack before, first uninstall the current version:
 
 npm uninstall -g angular-cli<br/>
 npm cache clean<br/>
 npm install -g angular-cli@webpack
+
+##If you haven't installed the Angular CLI with webpack already:
+
+npm install -g angular-cli@webpack
+
 
 ##How to run
 
