@@ -1,0 +1,13 @@
+.header-title {
+    color: white;
+    display: inline-block;
+    font-size: 30px;
+}
+
+.content {
+    margin-left: 10px;
+    margin-right: 10px;
+    overflow: hidden;
+}
+
+

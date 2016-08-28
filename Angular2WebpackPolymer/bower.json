@@ -1,0 +1,24 @@
+{
+  "name": "my-project",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Your Name"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "*/.",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "devDependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "iron-form-element-behavior": "PolymerElements/iron-form-element-behavior#^1.0.6",
+    "paper-header-panel": "latest",
+    "paper-input": "latest",
+    "paper-toolbar": "latest"
+  }
+}
