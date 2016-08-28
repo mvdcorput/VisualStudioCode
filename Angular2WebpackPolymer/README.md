@@ -8,13 +8,13 @@ npm install -g angular-cli@webpack
 
 ##If you installed the angular cli without webpack before, first uninstall the current version:
 
-npm uninstall -g angular-cli
-npm cache clean
+npm uninstall -g angular-cli<br/>
+npm cache clean<br/>
 npm install -g angular-cli@webpack
 
 ##How to run
 
-npm install (be patient)
+npm install (be patient)<br/>
 npm start
 
 ##Remarks
