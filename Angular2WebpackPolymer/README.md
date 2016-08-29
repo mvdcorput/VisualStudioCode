@@ -12,14 +12,13 @@ npm install -g angular-cli@webpack
 
 npm install -g angular-cli@webpack
 
-
 ##How to run
 
 npm install (be patient)<br/>
 npm start
 
 ##Remarks
-This version contains some jasmin errors that can be ignored, i will fix these errors as soon as possible
+This version contains some non blocking ng build errors, i will fix those as soon as possible.
 
 ## Resources
 Inspired by: [https://medium.com/@jeff.boothe/angulasr-cli-meets-webpack-7c9b1a1e1e89#.j3hmre6v2](https://medium.com/@jeff.boothe/angular-cli-meets-webpack-7c9b1a1e1e89#.j3hmre6v2)
