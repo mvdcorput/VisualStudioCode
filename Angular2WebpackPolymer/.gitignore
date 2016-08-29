@@ -2,11 +2,11 @@
 
 # compiled output
 /dist
+/public/components
 /tmp
 
 # dependencies
 /node_modules
-/public/components
 
 # IDEs and editors
 /.idea
